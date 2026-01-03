@@ -1,0 +1,6 @@
+[submodule "w25qxx"]
+	path = w25qxx
+	url = git@github.com:Donatussss/w25qxx.git
+[submodule "littlefs"]
+	path = littlefs
+	url = https://github.com/littlefs-project/littlefs.git
